@@ -110,7 +110,7 @@ const Togoogle =(props)=> {
                 <div className={styles.card}>
                     <h1>ボタンを押すと、「自由にコメント欄」</h1>
                     <h1>の内容がコピーされます。</h1>
-                    <a href="https://g.page/r/CYoe7IHifsqcEB0/review">
+                    <a href="https://www.google.com/maps/place/%E4%BA%95%E9%AB%98%E9%87%8E%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2/@34.7608064,135.5415705,17z/data=!4m6!3m5!1s0x6000e39686a35fe9:0xbac572bbf57db511!8m2!3d34.7608064!4d135.5415705!16s%2Fg%2F11b7ky656j?entry=ttu">
                         <button onClick={copyToClipboard} className={styles.button}>
                             コピーしてGoogleへ
                         </button>
